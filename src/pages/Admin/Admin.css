@@ -1,0 +1,23 @@
+.header-admin-layout {
+    display: flex;
+    align-content: center;
+    flex-direction: row-reverse;
+    padding: 0;
+}
+
+.admin-logo {
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.admin-user-avatar:hover {
+    background: lightgray;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.admin-user-avatar {
+    text-align: center;
+    padding: 0 20px;
+}

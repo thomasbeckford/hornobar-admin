@@ -1,0 +1,14 @@
+.login-button {
+    margin-top: 1em;
+}
+
+.login-card {
+    height: 100vh;
+    padding-top: 5em;
+    text-align: center;
+    background-color: #ffffffec;
+}
+
+.login-spinner {
+    text-align: center;
+}
